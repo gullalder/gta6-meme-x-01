@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/gullalder/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/gullalder/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA VI launch-week meme ("I called in sick. My AI clocked in.") whose picture shows the official make.fun ghost on shift doing bounty work, posted on X at https://x.com/LoniV38576/status/2123799334177435937, built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+A GTA VI launch-week meme ("I called in sick. My AI clocked in.") whose picture shows the official make.fun ghost on shift doing bounty work, posted on X at https://x.com/LoniV38576/status/2124029925640556740, built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
 ## Run it
 
